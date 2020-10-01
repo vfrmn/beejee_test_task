@@ -1,0 +1,25 @@
+body {
+    min-height: 100vh;
+    background-color: #61666c;
+}
+
+.main {
+
+}
+
+.content {
+
+
+}
+
+textarea {
+    height: 200px;
+}
+
+.task-container {
+    background-color: #7abaff
+}
+
+.completed {
+    background-color: #0dcd07 !important;
+}
